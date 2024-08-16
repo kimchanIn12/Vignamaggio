@@ -1,0 +1,35 @@
+body{
+  background-color:rgba(228, 53, 240, 1)
+}
+h1{
+  color:rgba(155, 30, 235, 1);
+     text-align:center;
+}
+h2{
+  text-align:center;
+  color:rgba(155, 30, 235, 1)
+}
+.firstPic{
+  display:flex;
+  justify-content:center;
+}
+h3{
+  text-align:center;
+  width:400px;
+  height:auto;
+  background-color:rgba(155, 30, 235, 1);
+}
+  .firstText{
+   display:flex;
+    justify-content:center;
+}
+  .secondPic{
+   display:flex;
+  justify-content:space-between;
+}
+.deneg{
+   display:flex;
+  justify-content:flex-start;
+  font-size:40px;
+  color:blue;
+}
